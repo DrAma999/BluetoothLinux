@@ -50,7 +50,7 @@ internal extension POSIXErrorCode {
     }
 }
 
-#if !swift(>=5.4)
+#if !swift(>=5.6)
 // MARK: - CustomStringConvertible
 
 // https://github.com/apple/swift/pull/24149
