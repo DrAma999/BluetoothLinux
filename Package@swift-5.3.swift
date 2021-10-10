@@ -11,7 +11,7 @@ let package = Package(
     ],
     dependencies: [
         .package(
-            url: "https://github.com/PureSwift/Bluetooth.git",
+            url: "https://github.com/DrAma999/Bluetooth.git",
             .branch("master")
         )
     ],
