@@ -6,6 +6,7 @@ let package = Package(
     products: [
         .library(
             name: "BluetoothLinux",
+            type: .static,
             targets: ["BluetoothLinux"]
         )
     ],
